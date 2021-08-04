@@ -11,6 +11,7 @@ import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//Main class
 public class MainActivity extends AppCompatActivity {
 
     EditText et_value;
