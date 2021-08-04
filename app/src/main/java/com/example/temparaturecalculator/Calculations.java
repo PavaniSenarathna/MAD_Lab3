@@ -12,3 +12,4 @@ public class Calculations {
         return ans;
     }
 }
+//end of main.java
