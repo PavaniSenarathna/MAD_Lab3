@@ -2,3 +2,4 @@
 MAD tutorial 2- Temperature calculator
 
 testing purpose only
+test merge option
